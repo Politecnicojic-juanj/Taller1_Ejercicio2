@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pedidos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio2.xsd">
+
+    <pedido>
+        <serie>542168</serie>
+        <cantidad>7</cantidad>
+        <peso>5</peso>
+    </pedido>
+    <pedido>
+        <serie>865425</serie>
+        <cantidad>30</cantidad>
+    </pedido>
+</pedidos>
